@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Rafael</h1>
-<p align="center">Sou acadêmico de Sistemas de Informação, atualmente desenvolvendo minhas habilidades em front-end, e ocasionalmente viciado em café ☕</p>
+<h3 align="center">Acadêmico de Sistemas de Informação, atualmente desenvolvendo minhas habilidades em front-end, e ocasionalmente viciado em café ☕</h3>
 <h3 align="left">Contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafaelvazteixeira09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelvazteixeira09" height="30" width="40" /></a>
